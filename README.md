@@ -5,7 +5,7 @@ Our compilation of CSS Blitz Challenges. A session where we talk about CSS tips 
 A list of pure css challenges that we had.
 
 - [Intro to CSS Grid part 1](challenges/gallery.md)
-- [Intro to CSS Grid part 2]
+- [Intro to CSS Grid part 2](challenges/.)
 - [Twitter deck]
 - [Accordion]
 - [Custom radio button]
