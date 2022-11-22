@@ -4,7 +4,7 @@ Our compilation of CSS Blitz Challenges
 ### Our Challenges
 A list of pure css challenges that we had.
 
-- [Intro to CSS Grid part 1]
+- [Intro to CSS Grid part 1](challenges/gallery.md)
 - [Intro to CSS Grid part 2]
 - [Twitter deck]
 - [Accordion]
