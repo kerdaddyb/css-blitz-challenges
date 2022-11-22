@@ -1,5 +1,5 @@
-# css-blitz-challenges
-Our compilation of CSS Blitz Challenges
+# CSS Blitz Challenges
+Our compilation of CSS Blitz Challenges. A session where we talk about CSS tips and tricks with with 15mins+ then activity after the discussion.
 
 ### Our Challenges
 A list of pure css challenges that we had.
