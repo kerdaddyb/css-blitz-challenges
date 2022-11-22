@@ -4,7 +4,7 @@
 
 <br>
 
-# CSS Blitz - On hover card reveal effect
+# CSS Blitz - Gallery
 
 - :hourglass: You have 15 minutes to implement this, take your time (but not too much)!
 - :nail_care: Feel free to embellish and make it pretty!
