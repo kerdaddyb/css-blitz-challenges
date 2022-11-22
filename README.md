@@ -1,4 +1,4 @@
-# :zap: CSS Blitz Challenges
+# :zap:CSS Blitz Challenges:zap:
 Our compilation of CSS Blitz Challenges. A session where we talk about CSS tips and tricks with with 15mins+ then activity after the discussion.
 
 ### Our Challenges
